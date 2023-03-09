@@ -1,0 +1,10 @@
+{
+  "modid": "beeyee_RelicPoolRandomizer",
+  "name": "Relic Pool Randomizer",
+  "author_list": ["beeyee"],
+  "description": "Randomizes the relic pools with the existing relics at the start of every run. Runic Pyramid might be a Common relic, Chemical X might be a Boss relic, etc. This also reduces the base price of Boss relics to make them a bit more affordable.",
+  "version": "0.0.1",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.19.0",
+  "dependencies": ["basemod"]
+}
